@@ -10,7 +10,7 @@
 
 
 #AUTHOR
-SULTAN FAIZUDDIN, Systems Engineer, Infosys Limited Since 2021.
+- SULTAN FAIZUDDIN, Systems Engineer, Infosys Limited Since 2021.
 
 #ABOUT AUTHOR
-SULTAN FAIZUDDIN Work for Infosys Limited from last 03 Years of experience. Good knowledge of Backend and Cloud Technologies. Have experience in infrastructure development and maintenance.
+- SULTAN FAIZUDDIN Work for Infosys Limited from last 03 Years of experience. Good knowledge of Backend and Cloud Technologies. Have experience in infrastructure development and maintenance.
