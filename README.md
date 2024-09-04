@@ -5,7 +5,7 @@
 - models/user.model.js -- It contains the schema and models
 - controller/user.controller.js -- It contains the logics which will save/retrieve the data from the DBs
 - route/user.route.js -- It contains the route logics which will help to navigate to the different APIs/requests.
-- middleware/isAuth.middleware.js -- It contains the logics which will check if user is logged in or not using UUID SESSION ID
+- middleware/isAuth.middleware.js -- It contains the logics which will check if user is logged in or not using UUID / SESSION ID
 - .env -- This file contains all the sensitive details like DB connection link, secret and access keys etc.
 
 
